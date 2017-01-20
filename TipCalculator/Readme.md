@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/bYNpM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/goyal-shubham/Codepath/blob/master/CodePath_GIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
